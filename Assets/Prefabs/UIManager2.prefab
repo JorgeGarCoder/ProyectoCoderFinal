@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8724560017772776320
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8724560017772776323}
+  - component: {fileID: 8724560017772776322}
+  m_Layer: 0
+  m_Name: UIManager2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8724560017772776323
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8724560017772776320}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 702.32385, y: 268.41464, z: 29.643776}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8724560017772776322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8724560017772776320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28d89d3167e1e79428cbd76d2c36b08a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ammoText: {fileID: 0}
+  ammoLeftText: {fileID: 0}
+  moneyText: {fileID: 0}
+  timerText: {fileID: 0}
+  playerLifeText: {fileID: 0}
+  moneyUpDownText: {fileID: 0}
+  mision1Text: {fileID: 0}
+  mision2Text: {fileID: 0}
+  mision3Text: {fileID: 0}
+  bloodImg: {fileID: 0}
+  pauseMenuGO: {fileID: 0}
+  gameOverGO: {fileID: 0}
+  buyMenuGO: {fileID: 0}
+  moneyUpDownGO: {fileID: 0}
+  defuseBarGO: {fileID: 0}
+  victoryMenuGO: {fileID: 0}
+  blueBaseIconGO: {fileID: 0}
+  reloadBarGO: {fileID: 0}
+  defuseFrontBar: {fileID: 0}
+  reloadFrontBar: {fileID: 0}
+  _pistolSO: {fileID: 11400000, guid: bac9c4754eb05444692ff83fe053358c, type: 2}
+  _shotgunSO: {fileID: 11400000, guid: 407380f55b520d942adf97d0aacc2103, type: 2}
+  _AWPSO: {fileID: 11400000, guid: 8e21b90adb2267f45b828b9e2e1fecbd, type: 2}
+  _AK47SO: {fileID: 11400000, guid: 90badf95473327049bfe77194674f1d8, type: 2}
+  _machinegunSO: {fileID: 11400000, guid: 733c1dc429c3edd4fbef60f9d3690db7, type: 2}
+  _CurrentSO: {fileID: 11400000, guid: c04588233966f2a45a297459e9afe53e, type: 2}
+  priceText: {fileID: 0}
+  countryText: {fileID: 0}
+  caliberText: {fileID: 0}
+  clipText: {fileID: 0}
+  rateText: {fileID: 0}
+  weightText: {fileID: 0}
+  projectileText: {fileID: 0}
+  muzzlespdText: {fileID: 0}
+  muzzleEnText: {fileID: 0}
+  weaponImage: {fileID: 0}
+  mision1SO: {fileID: 11400000, guid: bf336899b2198dc48ac98a8bc7366bc7, type: 2}
+  mision2SO: {fileID: 11400000, guid: 2f64737938657704e90699395409c71f, type: 2}
+  mision3SO: {fileID: 11400000, guid: 8860d2b7eb756084cbdf020588c37a35, type: 2}

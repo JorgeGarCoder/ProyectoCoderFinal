@@ -1,0 +1,6 @@
+Entrega final de curso desarrollo de videojuegos Coderhouse comision 31520
+Alumno: Jorge Gargiulo
+---
+El juego es un shooter en primera persona en donde hay que cumplir las misiones del nivel, seran 3 principalmente: rescate de los rehenes (llevarlos a la zona segura), eliminar a los enemigos y desactivar una bomba c4 antes que explote.
+---
+Los controles son con 'WASD', 'E' para interactuar con los rehenes y desactivar la bomba (mantener presionado), 'R' para recargar el arma, los numeros '1,2,3,4,5 y 0' para cambiar de arma (si el jugador esta en la base compra el arma del numero seleccionado) , 'clic izquierdo' del mouse para atacar, 'clic derecho' para hacer zoom con el sniper, 'B' en la base para poder ver el catalogo de armas y 'ESC' para pausar el juego.
